@@ -1,0 +1,4 @@
+baseURL = "https://onezom.com/"
+languageCode = "en-us"
+title = "onezom"
+theme = "onezom"
