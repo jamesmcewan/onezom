@@ -1,0 +1,10 @@
+{
+  "name": "onezom",
+  "version": "1.0.0",
+  "repository": "git@github.com:jamesmcewan/onezom.git",
+  "author": "James McEwan <60427+jamesmcewan@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "hugo --minify"
+  }
+}
