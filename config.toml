@@ -1,4 +1,5 @@
+
 baseURL = "https://onezom.com/"
-languageCode = "en-us"
+languageCode = "en-gb"
 title = "onezom"
-theme = "onezom"
+disableKinds = ["taxonomy", "taxonomyTerm"]
